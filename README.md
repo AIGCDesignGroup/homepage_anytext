@@ -1,2 +1,2 @@
 # Project Page 
-https://aigcdesigngroup.github.io/homepage-anytext/
+https://aigcdesigngroup.github.io/homepage_anytext/
